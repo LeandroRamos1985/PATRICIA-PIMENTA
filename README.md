@@ -41,3 +41,9 @@ Este pacote é uma demonstração funcional. Itens que dependem de domínio, ana
 
 ## Correção visual aplicada
 As imagens principais do site foram atualizadas com versões melhoradas e tratadas a partir dos prints enviados, substituindo os recortes de baixa qualidade usados na primeira versão.
+
+
+## Auditoria final
+Consulte `AUDITORIA-FINAL.md` para os 72 controles, evidências, score e bloqueadores.
+
+Status atual: **PRONTO PARA DEMONSTRAÇÃO — NÃO READY FOR PRODUCTION**.

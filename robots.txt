@@ -1,3 +1,2 @@
 User-agent: *
-Allow: /
-Sitemap: https://SEU-DOMINIO-AQUI/sitemap.xml
+Disallow: /
