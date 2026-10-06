@@ -37,3 +37,7 @@ Antes da publicação final:
 
 ## Observação
 Este pacote é uma demonstração funcional. Itens que dependem de domínio, analytics, Search Console, backend de formulário ou infraestrutura de produção ficam pendentes até esses dados existirem.
+
+
+## Correção visual aplicada
+As imagens principais do site foram atualizadas com versões melhoradas e tratadas a partir dos prints enviados, substituindo os recortes de baixa qualidade usados na primeira versão.
